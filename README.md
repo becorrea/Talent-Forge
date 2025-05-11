@@ -1,2 +1,2 @@
 # Talent-Forge
-Meu primeiro projeto. Consiste em uma aplicação que 'rankeia' currículos com base no nível de convergência com determinada vaga, e envia e-mails personalizados àqueles que mais se adequarem. O objetivo da aplicação é facilitar a leitura e escolha de currículos na hora do recrutamento.
+Meu primeiro projeto. Consiste em uma aplicação que 'rankeia' currículos com base no nível de convergência com determinada vaga, e envia e-mails personalizados àqueles que mais se adequarem. O objetivo da aplicação é facilitar a leitura e escolha de currículos na hora do recrutamento. Este projeto foi criado para o evento Hackaton 2025 da Universidade Presbiteriana Mackenzie (universidade na qual eu estudo), para a empresa Capgemini.
